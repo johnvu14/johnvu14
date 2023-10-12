@@ -1,7 +1,5 @@
-### Hi there 👋
+![](https://raw.githubusercontent.com/johnvu14/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/johnvu14/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
----
- 
-- 👨🏻‍💻 My name is John.
-- 🇨🇦 I'm a Software Developer based in Toronto, Canada.
-- Here's my [LinkedIn](https://www.linkedin.com/in/johnvu14/) profile.
+![](https://raw.githubusercontent.com/johnvu14/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/johnvu14/github-stats/master/generated/languages.svg#gh-light-mode-only)
