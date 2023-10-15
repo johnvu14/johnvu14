@@ -1,2 +1,6 @@
-![](https://raw.githubusercontent.com/johnvu14/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/johnvu14/github-stats/master/generated/overview.svg#gh-light-mode-only)
+<div align="center">
+
+<img src="https://github.com/johnvu14/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/johnvu14/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+
+</div>
